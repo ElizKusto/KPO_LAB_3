@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 	char name[20];
-	std::cout << "Hello world! Have a nice day!\n";
+	cout << "Hello world! Have a nice day!\n";
 	cout << "Enter your name: ";
 	cin >> name;
 	cout << "Hello, " << name << "!\n";
